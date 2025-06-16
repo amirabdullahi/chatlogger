@@ -1,6 +1,6 @@
  # Professional Chat Logger
 
-A modern, real-time chat application with comprehensive logging capabilities built with Java WebSocket backend and a beautiful HTML/CSS/JavaScript frontend.
+A modern, real-time chat application with comprehensive logging capabilities built with Java WebSocket backend and a beautiful HTML&CSS frontend.
 
 ## 🚀 Features
 
