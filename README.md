@@ -51,9 +51,6 @@ Simply open the `index.html` file in your web browser:
 # Open directly in browser
 open index.html
 
-# Or serve with a local server (optional)
-python -m http.server 3000
-# Then visit http://localhost:3000
 ```
 
 ## 🏃‍♂️ Usage
